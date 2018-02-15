@@ -1,6 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 	  			<a class="navbar-brand" href="index.html">
-	  				<span class="fab fa-fort-awesome-alt"></span>
 	  					<span class="navbar-brand mb-0 h1">*Inicio*</span>
 	  			</a>
 	  			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,10 +19,10 @@
 	        					</div>
 	      				</li>
 	      		<li class="nav-item active">
-	        		<a class="nav-link" href="categorias.html" target="_blank">Contenido 2</a>
+	        		<a class="nav-link" href="..." target="_blank">Contenido 2</a>
 	      		</li>
 	      		<li class="nav-item active">
-	        		<a class="nav-link" href="establecimientos.html">Contenido 3</a>
+	        		<a class="nav-link" href="...">Contenido 3</a>
 	      		</li>
 	    			</ul>
 	  			</div>
