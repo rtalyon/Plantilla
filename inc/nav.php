@@ -19,10 +19,10 @@
 	        					</div>
 	      				</li>
 	      		<li class="nav-item active">
-	        		<a class="nav-link" href="..." target="_blank">Contenido 2</a>
+	        		<a class="nav-link" href="..." target="_blank">Contenido 2 *NUEVA PESTAÑA*</a>
 	      		</li>
 	      		<li class="nav-item active">
-	        		<a class="nav-link" href="...">Contenido 3</a>
+	        		<a class="nav-link" href="...">Contenido 3 *SE CARGA EN LA MISMA PAG*</a>
 	      		</li>
 	    			</ul>
 	  			</div>
