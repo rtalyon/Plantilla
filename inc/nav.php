@@ -15,7 +15,7 @@
 	        					   <a class="dropdown-item" href="..." target="_blank">Info 2</a>
 	        					    <div class="dropdown-divider"></div> <!-- DIVIDER -->
 	        					  <a class="dropdown-item" href="..." target="_blank">Info 3</a>
-	        					   <div class="dropdown-divider"></div> <!-- DIVIDER -->
+	        					   <div class="dropdown-divider"></div> <!-- DIVIDER --> 
 	        					</div>
 	      				</li>
 	      		<li class="nav-item active">
